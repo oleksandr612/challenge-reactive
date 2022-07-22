@@ -1,0 +1,3 @@
+export const REQUEST_TEAMS = "REQUEST_TEAMS";
+export const RECEIVE_TEAMS = "RECEIVE_TEAMS";
+export const FETCH_TEAMS = "FETCH_TEAMS";
